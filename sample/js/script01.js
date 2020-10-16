@@ -9,7 +9,7 @@ $(function(){
   })
   
   $("#button03").on("click",function(){
-    $("#box03,#box07,#box08").hide();  
+    $("#box03,#box07").hide();  
   })
 
   $("#button04").on("click",function(){
